@@ -5,6 +5,11 @@ ReKrutoTestTask
 1. pip install flask-restful
 1. python main.py
 
+# Пример запросов
+
++ http://127.0.0.1:5000/
++ http://127.0.0.1:5000/?name=Вася&message=ZZZ
+
 # Задание
 
 Создать веб-сервис, который будет выводить "Rekruto! Давай дружить!". 
